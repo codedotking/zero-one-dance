@@ -1,8 +1,5 @@
 
-```html
-
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
-```
 ![GitHub followers](https://img.shields.io/github/followers/he-wen-yao?style=social)
 
 
