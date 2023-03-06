@@ -5,3 +5,10 @@ table {
   cellspacing: 0;
   border-spacing: 0;
 }
+
+
+div[dir=auto]{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
