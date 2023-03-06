@@ -1,5 +1,7 @@
 
-<link rel="stylesheet" type="text/css" href="./beautiful.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/he-wen-yao/he-wen-yao/blob/main/beautiful.css">
+
+
 ![GitHub followers](https://img.shields.io/github/followers/he-wen-yao?style=social)
 
 
