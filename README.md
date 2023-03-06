@@ -1,14 +1,15 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
-<div >
-  
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=he-wen-yao&show_icons=true&theme=tokyonight)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he-wen-yao&layout=compact&theme=tokyonight)
-  
-</div>
-
+<table border="0">
+<tr>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=he-wen-yao&show_icons=true&theme=tokyonight" alt="Top Langs" height="160" />
+</td>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=he-wen-yao&layout=compact&theme=tokyonight" alt="all-smile's GitHub stats" height="160" />
+</td>
+</tr>
+</table>
 
 
 
