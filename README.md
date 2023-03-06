@@ -1,10 +1,13 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
+<div >
+  
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=he-wen-yao&show_icons=true&theme=tokyonight)
 
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he-wen-yao&layout=compact&theme=tokyonight)
+  
+</div>
 
 
 
