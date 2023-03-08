@@ -1,4 +1,5 @@
-<div align="center">
+<div align="left">
+  
 ### Hi there 👋 
 
 <!-- profile logo 个人资料徽标 -->
@@ -20,27 +21,14 @@
 
 
 ### 技术栈
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <div align="center">
-        前端
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <div align="center">
-       后端
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <div align="center">
-        开发运维
-      </div>
-    </td>
-  </tr>
-</table>
+<a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/前端-Vue-blue" /></a>&emsp;
+<a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/前端-TypeScript-blue" /></a>&emsp;
 
-
+<a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/后端-Golang-blue" /></a>&emsp;
+<a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/后端-Java-blue" /></a>&emsp;
+  <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/后端-Python-blue" /></a>&emsp;
+  
+  
 ### 开源贡献
 
 飞龙工作流：https://gitee.com/aizuda/flowlong
