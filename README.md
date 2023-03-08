@@ -34,14 +34,14 @@
 
 
 **后端技术**
-1. JAVA 相关 
+
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Java-语言-blue" /></a>&emsp;
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/SpringBoot-后端框架-blue" /></a>&emsp;
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/SpringCloud-后端框架-blue" /></a>&emsp;
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/MyBatis-ORM 框架-blue" /></a>&emsp;
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/MyBatisPlus-ORM 框架-blue" /></a>&emsp;  
   
-3. Golange 相关
+
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Golang-语言-blue" /></a>&emsp;
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Gorm-ORM 框架-blue" /></a>&emsp;  
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Gin-Web 框架-blue" /></a>&emsp;  
