@@ -21,12 +21,12 @@
 
 
 ### 技术栈
-<a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/前端-Vue-blue" /></a>&emsp;
-<a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/前端-TypeScript-blue" /></a>&emsp;
+<a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Vue-前端-blue" /></a>&emsp;
+<a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/TypeScript-前端-blue" /></a>&emsp;
 
-<a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/后端-Golang-blue" /></a>&emsp;
-<a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/后端-Java-blue" /></a>&emsp;
-  <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/后端-Python-blue" /></a>&emsp;
+<a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Golang-后端-blue" /></a>&emsp;
+<a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Java-后端-blue" /></a>&emsp;
+  <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Python-后端-blue" /></a>&emsp;
   
   
 ### 开源贡献
