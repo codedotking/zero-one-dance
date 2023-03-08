@@ -9,7 +9,7 @@
 </div>
 
 
-### 仓库详情
+### repo stat
 
 <div width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=he-wen-yao&show_icons=true&theme=tokyonight"
@@ -20,7 +20,7 @@
 </div>
 
 
-### 技术栈
+### tech stack
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Vue-前端-blue" /></a>&emsp;
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/TypeScript-前端-blue" /></a>&emsp;
 
@@ -29,7 +29,7 @@
   <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Python-后端-blue" /></a>&emsp;
   
   
-### 开源贡献
+### Open source contributions
 
 飞龙工作流：https://gitee.com/aizuda/flowlong
 
