@@ -11,6 +11,8 @@
 
 ### repo stat
 
+ 后端 
+  
 <div width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=he-wen-yao&show_icons=true&theme=tokyonight"
   alt="Top Langs" height="160"  style="flex:1" />
@@ -20,21 +22,26 @@
 </div>
 
 
-### tech stack
+### tech stack 
+  
+**前端技术**
+  
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Vue-开发框架-blue" /></a>&emsp;
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/TypeScript-语言-blue" /></a>&emsp;
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/javascript-语言-blue" /></a>&emsp;
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/webpack-构建工具-blue" /></a>&emsp;
   
 
+
+**后端技术**
+1. JAVA 相关 
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Java-语言-blue" /></a>&emsp;
-  <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/SpringBoot-后端框架-blue" /></a>&emsp;
+<a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/SpringBoot-后端框架-blue" /></a>&emsp;
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/SpringCloud-后端框架-blue" /></a>&emsp;
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/MyBatis-ORM 框架-blue" /></a>&emsp;
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/MyBatisPlus-ORM 框架-blue" /></a>&emsp;  
   
-  
-  
+3. Golange 相关
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Golang-语言-blue" /></a>&emsp;
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Gorm-ORM 框架-blue" /></a>&emsp;  
 <a href="https://blog.hewenyao.top/"><img src="https://img.shields.io/badge/Gin-Web 框架-blue" /></a>&emsp;  
