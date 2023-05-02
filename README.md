@@ -12,10 +12,10 @@
 ### repo stat
 
 <div width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=poeticalcode&show_icons=true&theme=tokyonight"
+  <img src="https://github-readme-stats.vercel.app/api?username=awesome-space&show_icons=true&theme=tokyonight"
   alt="Top Langs" height="160"  style="flex:1" />
   <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=poeticalcode&layout=compact&theme=tokyonight"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesome-space&layout=compact&theme=tokyonight"
   alt="all-smile's GitHub stats" height="160" style="flex:1"/>
 </div>
 
